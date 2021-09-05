@@ -1,6 +1,6 @@
 ## 👋 About Me 
 <br>
-Hi I'm Ji-Hoon. I want to be a famous Data Engineer in Korea. 
+Hi I'm Ji-Hoon. I want to be a famous Data Engineer in Korea.<br>
 So, I studying hard about them such as full-stack development, data engineering and data analytics.
 
 <br><br>
