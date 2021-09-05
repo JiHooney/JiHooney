@@ -4,7 +4,7 @@ Hi I'm Ji-Hoon. I want to be a famous Data Engineer in Korea.
 So, I studying hard about them such as full-stack development, data engineering and data analytics.
 <br><br>
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiHooney)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiHooney&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://earthconquest.tistory.com//)](https://earthconquest.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoeeyz1@gmail.com)](mailto:hoeeyz1@gmail.com)
 
