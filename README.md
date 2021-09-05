@@ -2,6 +2,9 @@
 <br>
 Hi I'm Ji-Hoon. I want to be a famous Data Engineer in Korea. 
 So, I studying hard about them such as full-stack development, data engineering and data analytics.
+
+<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiHooney&show_icons=true&theme=radical)
 <br><br>
 
 ## 🔭 Skills<br><br>
